@@ -36,3 +36,6 @@ Create table sections (
   course_id INTEGER,
   Teacher_id INTEGER
 ):
+
+--Identify relashionships through connection ports--
+
